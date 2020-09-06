@@ -24,13 +24,13 @@ An entity must have strictly one @ID field.<br>
 ![Alt text](images/1.png?raw=true "")<br><br>
 ![Alt text](images/2.png?raw=true "")<br><br>
 ![Alt text](images/3.png?raw=true "")<br><br>
-![Alt text](images/4.png?raw=true "")<br><br>
+![Alt text](images/b4.png?raw=true "")<br><br>
 
 ### Saving (inserting) entities:
 ![Alt text](images/5.png?raw=true "")<br>
 
 ### Console output:
-![Alt text](images/6.png?raw=true "")
+![Alt text](images/b6.png?raw=true "")
 
 ## Sidenote
 This project was an assignment as part of the course - Advanced Java programming during the 7th semester at the Faculty of Computer Science in Belgrade.
