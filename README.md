@@ -21,10 +21,10 @@ An entity must have strictly one @ID field.<br>
 
 ## Example
 #### Defined entities:
-![Alt text](images/1.png?raw=true "")<br>
-![Alt text](images/2.png?raw=true "")<br>
-![Alt text](images/3.png?raw=true "")<br>
-![Alt text](images/4.png?raw=true "")<br>
+![Alt text](images/1.png?raw=true "")<br><br>
+![Alt text](images/2.png?raw=true "")<br><br>
+![Alt text](images/3.png?raw=true "")<br><br>
+![Alt text](images/4.png?raw=true "")<br><br>
 
 #### Saving (inserting) entities:
 ![Alt text](images/5.png?raw=true "")<br>
